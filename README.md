@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Gitea
 
 [![](https://github.com/go-gitea/gitea/actions/workflows/release-nightly.yml/badge.svg?branch=main)](https://github.com/go-gitea/gitea/actions/workflows/release-nightly.yml?query=branch%3Amain "Release Nightly")
@@ -196,3 +197,6 @@ for the full license text.
 ![Home](https://dl.gitea.com/screenshots/org_home.png)
 
 </details>
+=======
+# gitea
+>>>>>>> 8e3a9afe892ef94f59d12b545de8fbcf0b09d3ec
